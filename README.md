@@ -77,3 +77,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Tutorial links : 
+https://www.youtube.com/watch?v=o3uvmScCGVs
+https://github.com/yajra/laravel-datatables
+https://yajrabox.com/docs/laravel-datatables/master/quick-starter
+https://stackoverflow.com/questions/45153738/the-mix-manifest-does-not-exist-when-it-does-exist
+https://stackoverflow.com/questions/49212475/composer-require-runs-out-of-memory-php-fatal-error-allowed-memory-size-of-161
+
+installations : 
+npm install & npm run dev
+yarn
+
